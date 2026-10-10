@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="370,242">
+  <controller name="done" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n6_hprj" name="icon" src="hprj2a" fileName="Components/MapIcon.xml" xy="0,0" size="370,242">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <graph id="n3_82hn" name="btnPos1" xy="0,0" size="370,242" type="rect" lineSize="0" fillColor="#00ffffff"/>
+    <graph id="n4_lh0x" name="n4" xy="0,0" size="370,242" type="rect" lineSize="2" lineColor="#ff987744" fillColor="#f0262932" corner="8">
+      <gearDisplay controller="done" pages="1"/>
+    </graph>
+    <text id="n5_lh0x" name="n5" xy="54,127" size="250,94" rotation="-25" fontSize="65" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="已探索">
+      <gearDisplay controller="done" pages="1"/>
+    </text>
+  </displayList>
+</component>

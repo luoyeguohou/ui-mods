@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n2_gbqg" name="bg" xy="0,0" size="1920,1080" url="ui://zq8mfx2pfu4gtnovf5" align="center" vAlign="middle" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n0_gbqg" name="cont" src="efe62j" fileName="Windows/Duoluo/SmallCampfireCont.xml" xy="0,0" size="1920,1080">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

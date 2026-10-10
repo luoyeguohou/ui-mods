@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="aaa7mil0">
+  <resources>
+    <image id="luq91" name="weather_windy.png" path="/Pictures/"/>
+    <image id="luq92" name="weather_rain.png" path="/Pictures/"/>
+    <component id="luq93" name="WeatherTag.xml" path="/Components/"/>
+    <image id="luq94" name="bg_senling.png" path="/Pictures/"/>
+    <component id="luq95" name="MapSenlingCont.xml" path="/MapSenling/"/>
+    <component id="luq96" name="MapSenling.xml" path="/" exported="true"/>
+    <image id="luq97" name="bg_qingwan.png" path="/Pictures/"/>
+    <component id="luq98" name="MapQingwanCont.xml" path="/MapQingwan/"/>
+    <component id="luq99" name="MapQingwan.xml" path="/" exported="true"/>
+    <image id="luq9a" name="bg_baishi.png" path="/Pictures/"/>
+    <component id="luq9b" name="MapBaishiCont.xml" path="/MapBaishi/"/>
+    <component id="luq9c" name="MapBaishi.xml" path="/" exported="true"/>
+    <image id="luq9d" name="bg_hefeng.png" path="/Pictures/"/>
+    <component id="luq9e" name="MapHefengCont.xml" path="/MapHefeng/"/>
+    <component id="luq9f" name="MapHefeng.xml" path="/" exported="true"/>
+    <image id="luq910" name="bg_tamu.png" path="/Pictures/"/>
+    <component id="luq911" name="MapTamuCont.xml" path="/MapTamu/"/>
+    <component id="luq912" name="MapTamu.xml" path="/" exported="true"/>
+    <image id="luq913" name="bg_tonghe.png" path="/Pictures/"/>
+    <component id="luq914" name="MapTongheCont.xml" path="/MapTonghe/"/>
+    <component id="luq915" name="MapTonghe.xml" path="/" exported="true"/>
+    <image id="luq916" name="bg_xiling.png" path="/Pictures/"/>
+    <component id="luq917" name="MapXilingCont.xml" path="/MapXiling/"/>
+    <component id="luq918" name="MapXiling.xml" path="/" exported="true"/>
+    <image id="luq919" name="bg_zhongzhou.png" path="/Pictures/"/>
+    <component id="luq91a" name="MapZhongzhouCont.xml" path="/MapZhongzhou/"/>
+    <component id="luq91b" name="MapZhongzhou.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

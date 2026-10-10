@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_w8mv" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq97" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_w8mv" name="region2" xy="140,170" size="620,780" touchable="false" type="rect" lineSize="3" lineColor="#ff987744" fillColor="#55262932" corner="16"/>
+    <text id="n2_w8mv" name="lbl2" xy="156,176" size="400,40" fontSize="28" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="本岛"/>
+    <graph id="n3_w8mv" name="region4" xy="1180,170" size="640,780" touchable="false" type="rect" lineSize="3" lineColor="#ff987744" fillColor="#55262932" corner="16"/>
+    <text id="n4_w8mv" name="lbl4" xy="1196,176" size="400,40" fontSize="28" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="对岸"/>
+    <component id="n5_w8mv" name="line5" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="300,300" pivot="0,0.5" anchor="true" size="709,10" rotation="21.5" touchable="false"/>
+    <component id="n6_w8mv" name="line6" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="560,560" pivot="0,0.5" anchor="true" size="400,10" rotation="0.0" touchable="false"/>
+    <component id="n7_w8mv" name="line7" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="300,820" pivot="0,0.5" anchor="true" size="709,10" rotation="-21.5" touchable="false"/>
+    <component id="n8_w8mv" name="line8" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,560" pivot="0,0.5" anchor="true" size="477,10" rotation="-33.02" touchable="false"/>
+    <component id="n9_w8mv" name="line9" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1360,300" pivot="0,0.5" anchor="true" size="397,10" rotation="40.91" touchable="false"/>
+    <component id="n10_w8mv" name="line10" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,560" pivot="0,0.5" anchor="true" size="477,10" rotation="33.02" touchable="false"/>
+    <component id="n11_w8mv" name="line11" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1360,820" pivot="0,0.5" anchor="true" size="397,10" rotation="-40.91" touchable="false"/>
+    <component id="n12_w8mv" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="300,300" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n13_w8mv" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="560,560" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n14_w8mv" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="300,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n15_w8mv" name="btnFerry" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,560" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n16_w8mv" name="lbl16" xy="800,624" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="渡轮"/>
+    <component id="n17_w8mv" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1360,300" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n18_w8mv" name="btnSlot5" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1360,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n19_w8mv" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1660,560" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n20_w8mv" name="lbl20" xy="1500,624" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="海员训练馆"/>
+    <graph id="n21_w8mv" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n22_w8mv" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="青湾市"/>
+  </displayList>
+</component>

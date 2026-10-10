@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_zoh7" name="bg" xy="0,0" size="1920,1080" url="ui://mgsz5wz1xk924" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_zoh7" name="btnCell1" src="xk923" fileName="Components/TownCell.xml" xy="524,104"/>
+    <component id="n2_zoh7" name="btnCell2" src="xk923" fileName="Components/TownCell.xml" xy="748,104"/>
+    <component id="n3_zoh7" name="btnCell3" src="xk923" fileName="Components/TownCell.xml" xy="972,104"/>
+    <component id="n4_zoh7" name="btnCell4" src="xk923" fileName="Components/TownCell.xml" xy="1196,104"/>
+    <component id="n5_zoh7" name="btnCell5" src="xk923" fileName="Components/TownCell.xml" xy="524,328"/>
+    <component id="n6_zoh7" name="btnCell6" src="xk923" fileName="Components/TownCell.xml" xy="748,328"/>
+    <component id="n7_zoh7" name="btnCell7" src="xk923" fileName="Components/TownCell.xml" xy="972,328"/>
+    <component id="n8_zoh7" name="btnCell8" src="xk923" fileName="Components/TownCell.xml" xy="1196,328"/>
+    <component id="n9_zoh7" name="btnCell9" src="xk923" fileName="Components/TownCell.xml" xy="524,552"/>
+    <component id="n10_zoh7" name="btnCell10" src="xk923" fileName="Components/TownCell.xml" xy="748,552"/>
+    <component id="n11_zoh7" name="btnCell11" src="xk923" fileName="Components/TownCell.xml" xy="972,552"/>
+    <component id="n12_zoh7" name="btnCell12" src="xk923" fileName="Components/TownCell.xml" xy="1196,552"/>
+    <component id="n13_zoh7" name="btnCell13" src="xk923" fileName="Components/TownCell.xml" xy="524,776"/>
+    <component id="n14_zoh7" name="btnCell14" src="xk923" fileName="Components/TownCell.xml" xy="748,776"/>
+    <component id="n15_zoh7" name="btnCell15" src="xk923" fileName="Components/TownCell.xml" xy="972,776"/>
+    <component id="n16_zoh7" name="btnCell16" src="xk923" fileName="Components/TownCell.xml" xy="1196,776"/>
+    <text id="n17_zoh7" name="txtSteps" xy="1430,120" size="460,70" fontSize="40" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="天亮前还剩10步"/>
+    <text id="n18_zoh7" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="沉睡的小镇"/>
+  </displayList>
+</component>

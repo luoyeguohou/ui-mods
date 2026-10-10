@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080" overflow="scroll" scroll="both" scrollBarFlags="384">
+  <displayList>
+    <component id="n0_82hn" name="map" src="82hno" fileName="Components/Map.xml" xy="0,-1" size="3344,2508" scale="0.58,0.58"/>
+  </displayList>
+</component>

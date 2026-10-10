@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080" overflow="scroll" scroll="both" scrollBarFlags="384">
+  <displayList>
+    <image id="n1_kvga" name="n1" src="fu4gtnovey" fileName="Pictures/New/exec-2601ae01-df6c-4436-9a81-6207c4313c6c.png" xy="6,-7" size="1910,3395"/>
+    <graph id="n2_kvga" name="posStart" xy="986,3060" pivot="0.5,0.5" anchor="true" size="100,100" visible="false" type="rect"/>
+    <graph id="n3_kvga" name="posEnd" xy="982,573" pivot="0.5,0.5" anchor="true" size="100,100" visible="false" type="rect"/>
+  </displayList>
+</component>

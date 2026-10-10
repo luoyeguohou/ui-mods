@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n3_ruu7" name="n3" xy="947,540" pivot="0.5,0.5" anchor="true" size="2290,1256" url="ui://zq8mfx2pfu4gtnovf0" align="center" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width%,height-height%"/>
+    </loader>
+    <graph id="n0_ruu7" name="n0" xy="0,0" size="1920,137" type="rect" lineSize="2" lineColor="#ff987744" fillColor="#f0262932" corner="8">
+      <relation target="" sidePair="width-width,height-height%,top-top"/>
+    </graph>
+    <graph id="n1_ruu7" name="n1" xy="0,942" size="1920,137" type="rect" lineSize="2" lineColor="#ff987744" fillColor="#f0262932" corner="8">
+      <relation target="" sidePair="width-width,height-height%,bottom-bottom"/>
+    </graph>
+    <text id="n2_ruu7" name="n2" xy="89,969" size="1741,93" fontSize="55" color="#efdfbb" autoSize="shrink" strokeColor="#151922" text="山腰是一条向上的道路，景象也越发的破败，你明白，你必须向上攀登，一刻也不能停留。">
+      <relation target="" sidePair="width-width,height-height%,bottom-bottom"/>
+    </text>
+    <component id="n4_d3as" name="btnSkip" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="46,45">
+      <Button title="跳过"/>
+    </component>
+  </displayList>
+  <transition name="idle">
+    <item time="0" type="Scale" target="n3_ruu7" tween="true" startValue="1,1" endValue="0.95,0.95" duration="54"/>
+    <item time="141" type="Scale" target="n3_ruu7" value="0.95,0.95"/>
+  </transition>
+</component>

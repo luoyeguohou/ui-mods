@@ -1,0 +1,36 @@
+[submodule "BeastGod/assets/Core"]
+	path = BeastGod/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "Fallen/assets/Core"]
+	path = Fallen/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "FireGod/assets/Core"]
+	path = FireGod/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "NewPokemon/assets/Core"]
+	path = NewPokemon/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "Pokemon/assets/Core"]
+	path = Pokemon/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "SleepGod/assets/Core"]
+	path = SleepGod/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "SwordGod/assets/Core"]
+	path = SwordGod/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "ThunderGod/assets/Core"]
+	path = ThunderGod/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main
+[submodule "UnderworldGod/assets/Core"]
+	path = UnderworldGod/assets/Core
+	url = https://github.com/luoyeguohou/fairyGui-package-core.git
+	branch = main

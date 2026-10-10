@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="anl5o4sk">
+  <resources>
+    <image id="olez1" name="bg_scene1.png" path="/Pictures/"/>
+    <component id="olez2" name="MapScene1Cont.xml" path="/MapScene1/"/>
+    <component id="olez3" name="MapScene1.xml" path="/" exported="true"/>
+    <image id="olez4" name="bg_scene2.png" path="/Pictures/"/>
+    <component id="olez5" name="MapScene2Cont.xml" path="/MapScene2/"/>
+    <component id="olez6" name="MapScene2.xml" path="/" exported="true"/>
+    <image id="olez7" name="bg_scene3.png" path="/Pictures/"/>
+    <component id="olez8" name="MapScene3Cont.xml" path="/MapScene3/"/>
+    <component id="olez9" name="MapScene3.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

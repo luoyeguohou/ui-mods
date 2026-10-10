@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <controller name="language" pages="0,chinese,1,english" selected="0"/>
+  <displayList>
+    <component id="n7_yxox" name="bg" src="kvgatnoveu" fileName="Components/MapContainerTop.xml" xy="0,-1">
+      <relation target="" sidePair="height-height,center-center"/>
+    </component>
+  </displayList>
+</component>

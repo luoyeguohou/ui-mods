@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dlhruo0a">
+  <resources>
+    <image id="rsah1" name="bg_scene1.png" path="/Pictures/"/>
+    <component id="rsah2" name="MapScene1Cont.xml" path="/MapScene1/"/>
+    <component id="rsah3" name="MapScene1.xml" path="/" exported="true"/>
+    <image id="rsah4" name="bg_scene2.png" path="/Pictures/"/>
+    <component id="rsah5" name="MapScene2Cont.xml" path="/MapScene2/"/>
+    <component id="rsah6" name="MapScene2.xml" path="/" exported="true"/>
+    <image id="rsah7" name="bg_scene3.png" path="/Pictures/"/>
+    <component id="rsah8" name="MapScene3Cont.xml" path="/MapScene3/"/>
+    <component id="rsah9" name="MapScene3.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

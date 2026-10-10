@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_pryy" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq9d" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_pryy" name="region2" xy="150,150" size="380,820" touchable="false" type="rect" lineSize="3" lineColor="#ff987744" fillColor="#55262932" corner="16"/>
+    <text id="n2_pryy" name="lbl2" xy="166,156" size="400,40" fontSize="28" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="农忙期"/>
+    <graph id="n3_pryy" name="region4" xy="1110,150" size="760,820" touchable="false" type="rect" lineSize="3" lineColor="#ff987744" fillColor="#55262932" corner="16"/>
+    <text id="n4_pryy" name="lbl4" xy="1126,156" size="400,40" fontSize="28" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="秋收期"/>
+    <component id="n5_pryy" name="line5" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="330,280" pivot="0,0.5" anchor="true" size="599,10" rotation="27.85" touchable="false"/>
+    <component id="n6_pryy" name="line6" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="330,560" pivot="0,0.5" anchor="true" size="530,10" rotation="0.0" touchable="false"/>
+    <component id="n7_pryy" name="line7" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="330,840" pivot="0,0.5" anchor="true" size="599,10" rotation="-27.85" touchable="false"/>
+    <component id="n8_pryy" name="line8" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="860,560" pivot="0,0.5" anchor="true" size="492,10" rotation="-26.57" touchable="false"/>
+    <component id="n9_pryy" name="line9" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="860,560" pivot="0,0.5" anchor="true" size="492,10" rotation="26.57" touchable="false"/>
+    <component id="n10_pryy" name="line10" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="860,560" pivot="0,0.5" anchor="true" size="820,10" rotation="0.0" touchable="false"/>
+    <component id="n11_pryy" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="330,280" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n12_pryy" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="330,560" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n13_pryy" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="330,840" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n14_pryy" name="btnFeast" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="860,560" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n15_pryy" name="lbl15" xy="700,624" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="丰收宴"/>
+    <component id="n16_pryy" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1300,340" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n17_pryy" name="btnSlot5" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1300,780" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n18_pryy" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1680,560" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n19_pryy" name="lbl19" xy="1520,624" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="县农技站训练场"/>
+    <graph id="n20_pryy" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n21_pryy" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="禾丰镇"/>
+  </displayList>
+</component>

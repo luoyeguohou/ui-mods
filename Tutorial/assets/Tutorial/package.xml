@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zq8mfx2p">
+  <resources>
+    <component id="82hnm" name="MapBottomWin.xml" path="/Windows/" exported="true"/>
+    <component id="82hno" name="Map.xml" path="/Windows/"/>
+    <component id="82hnp" name="MapContainer.xml" path="/Windows/"/>
+    <component id="lh0xw" name="MapPoint.xml" path="/Components/"/>
+    <image id="hprj22" name="normal_combat_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj23" name="campfire_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj24" name="elite_combat_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj25" name="event_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj26" name="campfire_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="hprj27" name="elite_combat_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="hprj28" name="event_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="hprj29" name="normal_combat_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <component id="hprj2a" name="MapIcon.xml" path="/Components/" exported="true"/>
+    <image id="artmaplow" name="map_lower.png" path="/Pictures/Art/" exported="true"/>
+  </resources>
+  <publish name="" path="C:\projects\ThreeKingdomRouge\ThreeKingdomRouge.ModEditor\ModEditor\Assets\StreamingAssets\Mods\tutorial\ui" packageCount="2"/>
+</packageDescription>

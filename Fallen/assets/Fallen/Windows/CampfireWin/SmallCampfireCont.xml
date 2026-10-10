@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n12_mzla" name="n12" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="183,420" size="424,190"/>
+    <image id="n13_mzla" name="n13" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="765,419" size="424,190"/>
+    <image id="n14_mzla" name="n14" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="1332,413" size="424,190"/>
+    <component id="n0_gbqg" name="btnRest" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="270,441">
+      <Button title="休息"/>
+    </component>
+    <component id="n6_gbqg" name="btnTrain" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="860,433">
+      <Button title="修行"/>
+    </component>
+    <component id="n7_gbqg" name="btnMeditation" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="1433,429">
+      <Button title="冥想"/>
+    </component>
+    <text id="n8_gbqg" name="n8" xy="228,526" size="337,59" fontSize="33" color="#efdfbb" align="center" vAlign="bottom" autoSize="shrink" strokeColor="#151922" singleLine="true" text="回复2点HP。"/>
+    <text id="n10_gbqg" name="n10" xy="810,521" size="337,59" fontSize="33" color="#efdfbb" align="center" vAlign="bottom" autoSize="shrink" strokeColor="#151922" singleLine="true" text="花费2点神力，升级一个技能。"/>
+    <text id="n11_gbqg" name="n11" xy="1377,516" size="337,59" fontSize="33" color="#efdfbb" align="center" vAlign="bottom" autoSize="shrink" strokeColor="#151922" singleLine="true" text="花费4点神力，获得一个全新技能。"/>
+  </displayList>
+</component>

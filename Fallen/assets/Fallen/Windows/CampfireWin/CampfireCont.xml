@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n14_mzla" name="n14" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="1069,190" size="431,181"/>
+    <image id="n15_mzla" name="n15" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="1061,625" size="431,181"/>
+    <image id="n16_mzla" name="n16" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="289,618" size="431,181"/>
+    <image id="n13_mzla" name="n13" src="vsy2tnovjh" fileName="bgBox.png" pkg="msb8m4n5" xy="297,193" size="431,181"/>
+    <component id="n0_gbqg" name="btnRest" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="397,211">
+      <Button title="休息"/>
+    </component>
+    <component id="n5_gbqg" name="btnBreakthrough" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="1170,205">
+      <Button title="突破"/>
+    </component>
+    <component id="n6_gbqg" name="btnTrain" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="384,638">
+      <Button title="修行"/>
+    </component>
+    <component id="n7_gbqg" name="btnMeditation" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="1163,644">
+      <Button title="冥想"/>
+    </component>
+    <text id="n8_gbqg" name="n8" xy="356,294" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="回复所有HP。"/>
+    <text id="n9_gbqg" name="n9" xy="1125,287" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="增加一点HP上限。"/>
+    <text id="n10_gbqg" name="n10" xy="349,717" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="花费1点神力，升级一个技能。"/>
+    <text id="n11_gbqg" name="n11" xy="1123,726" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="花费3点神力，获得一个全新技能。"/>
+    <component id="n12_gbqg" name="btnCancel" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="1684,181">
+      <Button title="取消营火"/>
+    </component>
+  </displayList>
+</component>

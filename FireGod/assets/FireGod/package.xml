@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="miz98c80">
+  <resources>
+    <image id="fne91" name="bg_scene1.png" path="/Pictures/"/>
+    <component id="fne92" name="MapScene1Cont.xml" path="/MapScene1/"/>
+    <component id="fne93" name="MapScene1.xml" path="/" exported="true"/>
+    <image id="fne94" name="bg_scene2.png" path="/Pictures/"/>
+    <component id="fne95" name="MapScene2Cont.xml" path="/MapScene2/"/>
+    <component id="fne96" name="MapScene2.xml" path="/" exported="true"/>
+    <image id="fne97" name="bg_scene3.png" path="/Pictures/"/>
+    <component id="fne98" name="MapScene3Cont.xml" path="/MapScene3/"/>
+    <component id="fne99" name="MapScene3.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_k3p5" name="bg" xy="0,0" size="1920,1080" url="ui://anl5o4skolez4" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_k3p5" name="lnL1S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,255" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n2_k3p5" name="lnL1S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,255" pivot="0,0.5" anchor="true" size="299,10" rotation="39.44" touchable="false"/>
+    <component id="n3_k3p5" name="lnL1S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,445" pivot="0,0.5" anchor="true" size="299,10" rotation="-39.44" touchable="false"/>
+    <component id="n4_k3p5" name="lnL1S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,445" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n5_k3p5" name="lnL1S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,445" pivot="0,0.5" anchor="true" size="299,10" rotation="39.44" touchable="false"/>
+    <component id="n6_k3p5" name="lnL1S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,635" pivot="0,0.5" anchor="true" size="299,10" rotation="-39.44" touchable="false"/>
+    <component id="n7_k3p5" name="lnL1S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,635" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n8_k3p5" name="lnL1S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,635" pivot="0,0.5" anchor="true" size="299,10" rotation="39.44" touchable="false"/>
+    <component id="n9_k3p5" name="lnL1S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,825" pivot="0,0.5" anchor="true" size="299,10" rotation="-39.44" touchable="false"/>
+    <component id="n10_k3p5" name="lnL1S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,825" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n11_k3p5" name="lnL2S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,255" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n12_k3p5" name="lnL2S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,255" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n13_k3p5" name="lnL2S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,445" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n14_k3p5" name="lnL2S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,445" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n15_k3p5" name="lnL2S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,445" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n16_k3p5" name="lnL2S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,635" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n17_k3p5" name="lnL2S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,635" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n18_k3p5" name="lnL2S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,635" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n19_k3p5" name="lnL2S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,825" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n20_k3p5" name="lnL2S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="401,825" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n21_k3p5" name="lnL3S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,255" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n22_k3p5" name="lnL3S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,255" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n23_k3p5" name="lnL3S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,445" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n24_k3p5" name="lnL3S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,445" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n25_k3p5" name="lnL3S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,445" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n26_k3p5" name="lnL3S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,635" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n27_k3p5" name="lnL3S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,635" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n28_k3p5" name="lnL3S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,635" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n29_k3p5" name="lnL3S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,825" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n30_k3p5" name="lnL3S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="633,825" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n31_k3p5" name="lnL4S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,255" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n32_k3p5" name="lnL4S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,255" pivot="0,0.5" anchor="true" size="299,10" rotation="39.44" touchable="false"/>
+    <component id="n33_k3p5" name="lnL4S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,445" pivot="0,0.5" anchor="true" size="299,10" rotation="-39.44" touchable="false"/>
+    <component id="n34_k3p5" name="lnL4S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,445" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n35_k3p5" name="lnL4S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,445" pivot="0,0.5" anchor="true" size="299,10" rotation="39.44" touchable="false"/>
+    <component id="n36_k3p5" name="lnL4S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,635" pivot="0,0.5" anchor="true" size="299,10" rotation="-39.44" touchable="false"/>
+    <component id="n37_k3p5" name="lnL4S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,635" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n38_k3p5" name="lnL4S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,635" pivot="0,0.5" anchor="true" size="299,10" rotation="39.44" touchable="false"/>
+    <component id="n39_k3p5" name="lnL4S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,825" pivot="0,0.5" anchor="true" size="299,10" rotation="-39.44" touchable="false"/>
+    <component id="n40_k3p5" name="lnL4S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="865,825" pivot="0,0.5" anchor="true" size="231,10" rotation="0.0" touchable="false"/>
+    <component id="n41_k3p5" name="lnL5S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,255" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n42_k3p5" name="lnL5S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,255" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n43_k3p5" name="lnL5S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,445" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n44_k3p5" name="lnL5S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,445" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n45_k3p5" name="lnL5S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,445" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n46_k3p5" name="lnL5S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,635" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n47_k3p5" name="lnL5S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,635" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n48_k3p5" name="lnL5S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,635" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n49_k3p5" name="lnL5S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,825" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n50_k3p5" name="lnL5S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1096,825" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n51_k3p5" name="lnL6S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,255" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n52_k3p5" name="lnL6S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,255" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n53_k3p5" name="lnL6S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,445" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n54_k3p5" name="lnL6S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,445" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n55_k3p5" name="lnL6S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,445" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n56_k3p5" name="lnL6S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,635" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n57_k3p5" name="lnL6S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,635" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n58_k3p5" name="lnL6S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,635" pivot="0,0.5" anchor="true" size="300,10" rotation="39.32" touchable="false"/>
+    <component id="n59_k3p5" name="lnL6S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,825" pivot="0,0.5" anchor="true" size="300,10" rotation="-39.32" touchable="false"/>
+    <component id="n60_k3p5" name="lnL6S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1328,825" pivot="0,0.5" anchor="true" size="232,10" rotation="0.0" touchable="false"/>
+    <component id="n61_k3p5" name="lnBossS1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,255" pivot="0,0.5" anchor="true" size="357,10" rotation="52.97" touchable="false"/>
+    <component id="n62_k3p5" name="lnBossS2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,445" pivot="0,0.5" anchor="true" size="235,10" rotation="23.84" touchable="false"/>
+    <component id="n63_k3p5" name="lnBossS3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,635" pivot="0,0.5" anchor="true" size="235,10" rotation="-23.84" touchable="false"/>
+    <component id="n64_k3p5" name="lnBossS4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,825" pivot="0,0.5" anchor="true" size="357,10" rotation="-52.97" touchable="false"/>
+    <component id="n65_k3p5" name="btnL1S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n66_k3p5" name="btnL1S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n67_k3p5" name="btnL1S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n68_k3p5" name="btnL1S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n69_k3p5" name="btnL2S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="401,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n70_k3p5" name="btnL2S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="401,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n71_k3p5" name="btnL2S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="401,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n72_k3p5" name="btnL2S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="401,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n73_k3p5" name="btnL3S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="633,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n74_k3p5" name="btnL3S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="633,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n75_k3p5" name="btnL3S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="633,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n76_k3p5" name="btnL3S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="633,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n77_k3p5" name="btnL4S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="865,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n78_k3p5" name="btnL4S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="865,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n79_k3p5" name="btnL4S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="865,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n80_k3p5" name="btnL4S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="865,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n81_k3p5" name="btnL5S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1096,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n82_k3p5" name="btnL5S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1096,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n83_k3p5" name="btnL5S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1096,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n84_k3p5" name="btnL5S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1096,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n85_k3p5" name="btnL6S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1328,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n86_k3p5" name="btnL6S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1328,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n87_k3p5" name="btnL6S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1328,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n88_k3p5" name="btnL6S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1328,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n89_k3p5" name="btnL7S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n90_k3p5" name="btnL7S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n91_k3p5" name="btnL7S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n92_k3p5" name="btnL7S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n93_k3p5" name="btnBoss" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1775,540" pivot="0.5,0.5" anchor="true" scale="0.55,0.55"/>
+    <text id="n94_k3p5" name="lbl94" xy="1615,610" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="关底"/>
+    <graph id="n95_k3p5" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n96_k3p5" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="剑阁"/>
+  </displayList>
+</component>

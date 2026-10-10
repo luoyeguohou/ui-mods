@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0jb45q1h">
+  <resources>
+    <component id="lgg30" name="Map1.xml" path="/" exported="true"/>
+    <image id="ky8s1" name="Map1.png" path="/"/>
+    <component id="nti72" name="MapPoint.xml" path="/Components/" exported="true"/>
+    <component id="nti73" name="Button.xml" path="/Components/" exported="true"/>
+    <image id="nti74" name="campfire_icon.png" path="/Pictures/Icons/"/>
+    <image id="nti75" name="campfire_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="nti76" name="elite_combat_icon.png" path="/Pictures/Icons/"/>
+    <image id="nti77" name="elite_combat_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="nti78" name="event_icon.png" path="/Pictures/Icons/"/>
+    <image id="nti79" name="event_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="nti7a" name="normal_combat_icon.png" path="/Pictures/Icons/"/>
+    <image id="nti7b" name="normal_combat_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="nti7c" name="button_disabled.png" path="/Pictures/"/>
+    <image id="nti7d" name="button_hover.png" path="/Pictures/"/>
+    <image id="nti7e" name="button_normal.png" path="/Pictures/"/>
+    <image id="nti7f" name="button_pressed.png" path="/Pictures/"/>
+    <component id="nti7g" name="MapIcon.xml" path="/Components/"/>
+    <component id="nti7h" name="Map1Cont.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

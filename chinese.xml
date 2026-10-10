@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Main/Components/Card.xml -->
+  <string name="6rc7w3nopcqv3-n8_hprj" mz="n8">装备-武器</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_0" mz="n8">基本</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_1" mz="n8">装备-武器</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_2" mz="n8">装备-防具</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_def" mz="n8">技能</string>
+  <!-- Main/Components/HP.xml -->
+  <string name="6rc7w3nopcqv6-n15_pcqv" mz="txtNum">X{num=18}/{max=18}</string>
+  <!-- Main/Components/MainHand.xml -->
+  <string name="6rc7w3nopcqv1-n86_fl4x" mz="btnEndTurn">结束回合</string>
+  <!-- Main/Components/MapPoint.xml -->
+  <string name="6rc7w3nolh0xw-n5_lh0x" mz="n5">已探索</string>
+  <!-- Main/Components/MapTopBar.xml -->
+  <string name="6rc7w3nomehz2m-n6_yxox" mz="txtFog">雾气值：{val=0}</string>
+  <string name="6rc7w3nomehz2m-n6_yxox-texts_0" mz="txtFog">雾气值：{val=0}</string>
+  <string name="6rc7w3nomehz2m-n6_yxox-texts_def" mz="txtFog">雾气值：{val=0}/{max=6}</string>
+  <string name="6rc7w3nomehz2m-n8_i8lt" mz="btnDeck">玩家状态</string>
+  <string name="6rc7w3nomehz2m-n11_mhnx" mz="txtHP">HP：{val=0}</string>
+  <string name="6rc7w3nomehz2m-n13_mhnx" mz="txtGP">神力值：{val=0}</string>
+  <string name="6rc7w3nomehz2m-n15_mhnx" mz="txtCampfire">篝火：{val=0}</string>
+  <string name="6rc7w3nomehz2m-n16_mhnx" mz="btnCampfire">做篝火</string>
+  <string name="6rc7w3nomehz2m-n18_mehz" mz="n18">雾气值越高，敌人就会越强。
+雾气值达到3，敌人初始手牌加1.
+雾气值达到6，敌人每回合抽牌数加1.
+雾气值达到9，敌人血上限加1.
+雾气值达到12，敌人初始手牌加1.
+雾气值达到15，敌人每回合抽牌数加1.
+雾气值达到18，敌人血上限加1.
+雾气值达到21，敌人初始手牌加1.敌人每回合抽牌数加1.
+雾气值达到24，敌人血上限加1.敌人初始手牌加1.敌人每回合抽牌数加1.</string>
+  <!-- Main/Components/Player.xml -->
+  <string name="6rc7w3nopcqv8-n24_kdzb" mz="n24">选中</string>
+  <string name="6rc7w3nopcqv8-n24_kdzb-texts_0" mz="n24">死亡</string>
+  <string name="6rc7w3nopcqv8-n24_kdzb-texts_def" mz="n24">选中</string>
+  <string name="6rc7w3nopcqv8-n27_ocvx" mz="txtHandNum">X{num=99}</string>
+  <string name="6rc7w3nopcqv8-n32_jlk1" mz="txtSkill">发动技能{name=观星}</string>
+  <!-- Main/Windows/CardListCont.xml -->
+  <string name="6rc7w3noymjrb-n31_ymjr" mz="btnClose">关闭</string>
+  <!-- Main/Windows/CharacterCont.xml -->
+  <string name="6rc7w3noiwb8u-n6_82hn" mz="btnBack">返回</string>
+  <string name="6rc7w3noiwb8u-n7_82hn" mz="btnConfirm">确定</string>
+  <!-- Main/Windows/ChooseCardCont.xml -->
+  <string name="6rc7w3noefe62h-n31_ymjr" mz="btnConfirm">确定</string>
+  <!-- Main/Windows/ChooseCardFromUnitCont.xml -->
+  <string name="6rc7w3nojlk11c-n5_jlk1" mz="btnConfirm">确定</string>
+  <!-- Main/Windows/CombatCont.xml -->
+  <string name="6rc7w3nopcqv2-n27_ymjr" mz="btnDraw">抽牌堆</string>
+  <string name="6rc7w3nopcqv2-n28_ymjr" mz="btnDiscard">弃牌堆</string>
+  <string name="6rc7w3nopcqv2-n35_ldtx" mz="btnGetCard">获得牌</string>
+  <string name="6rc7w3nopcqv2-n36_eicz" mz="btnEneryGetCard">敌人获得牌</string>
+  <string name="6rc7w3nopcqv2-n39_eicz" mz="btnBack">返回</string>
+  <string name="6rc7w3nopcqv2-n40_sblx" mz="btnTurt">教程</string>
+  <string name="6rc7w3nopcqv2-n42_sblx" mz="n42">这里是战斗界面的教程
+1.战斗为卡牌战斗，所有角色依次进行一个回合，直到分出胜负。
+2.所有人共享一个牌库，每回合会从该牌库抽取2张卡牌。但是玩家会额外从自己的单独牌库里抽取1张卡牌。
+3.卡牌分为基本牌，技能牌与装备牌。
+【基本牌】：每回合可以使用1张【攻击】，对方如果无法打出1张【躲避】，则受到1点伤害。【治疗】可以回复1点血量。
+【技能牌】：打出后根据描述文本发动效果，无打出次数限制。
+【装备牌】：打出后进入装备区，你最多可以拥有1个武器与1个防具。
+</string>
+  <string name="6rc7w3nopcqv2-n43_tqhu" mz="btnTurt1">教程</string>
+  <!-- Main/Windows/Duoluo/CampfireCont.xml -->
+  <string name="6rc7w3nogbqg14-n0_gbqg" mz="btnRest">休息</string>
+  <string name="6rc7w3nogbqg14-n5_gbqg" mz="btnBreakthrough">突破</string>
+  <string name="6rc7w3nogbqg14-n6_gbqg" mz="btnTrain">修行</string>
+  <string name="6rc7w3nogbqg14-n7_gbqg" mz="btnMeditation">冥想</string>
+  <string name="6rc7w3nogbqg14-n8_gbqg" mz="n8">回复所有HP。</string>
+  <string name="6rc7w3nogbqg14-n9_gbqg" mz="n9">增加一点HP上限。</string>
+  <string name="6rc7w3nogbqg14-n10_gbqg" mz="n10">花费1点神力，升级一个技能。</string>
+  <string name="6rc7w3nogbqg14-n11_gbqg" mz="n11">花费3点神力，获得一个全新技能。</string>
+  <string name="6rc7w3nogbqg14-n12_gbqg" mz="btnCancel">取消营火</string>
+  <!-- Main/Windows/Duoluo/MapBottomWin.xml -->
+  <string name="6rc7w3no82hnm-n9_tqhu" mz="n9">教程</string>
+  <string name="6rc7w3no82hnm-n10_tqhu" mz="n10">教程</string>
+  <string name="6rc7w3no82hnm-n12_tqhu" mz="n12">欢迎来到弑神之路，你是挑战弑神的人。
+神在山顶的神殿里。你需要依次通过山底，山腰与山顶才能最终击败神。
+这里是山底的地图，山底还不完全受到神的控制。
+
+你可以依照任何顺序来进行山底的探索。其中         与           意味着你会遭遇一场战斗，战斗会给你卡牌（普通战斗）与技能（精英战斗）奖励
+
+            意味着你会遭遇一个事件，你通常需要在事件里做出一些抉择。
+但是，无论战斗还是事件都会使你体内的雾气值上升1点，而在山底，你最多只能吸入9点雾气值。
+在山底的地图你有两个篝火，你可以主动停下来，使用篝火来休息。注意，这些篝火在下一张地图就会消失。
+地图的最顶部就是山底尽头的守护者，也是本关的boss。击败他来进入山腰，但是挑战他之前也许通过简单的战斗来强化自己。</string>
+  <!-- Main/Windows/Duoluo/MapMidWin.xml -->
+  <string name="6rc7w3nohprj2c-n3_gqgq" mz="n3">教程</string>
+  <string name="6rc7w3nohprj2c-n4_gqgq" mz="n4">教程</string>
+  <string name="6rc7w3nohprj2c-n6_gqgq" mz="n6">这里是山腰的地图。
+你需要从下向上攀爬。
+地图是一条有岔路的一直向上的路。每一次探索依然会使雾气值加1。这里雾气逐渐浓厚，你已无法回头。
+战胜最顶点的山腰守护者就可以前往山顶了。</string>
+  <!-- Main/Windows/Duoluo/MonutainBotAni.xml -->
+  <string name="6rc7w3nod3as36-n2_ruu7" mz="n2">堕落之神释放雾气笼罩了神界山，吸入雾气会逐渐丧失神智，成为堕落之神的守护者。</string>
+  <string name="6rc7w3nod3as36-n4_d3as" mz="btnSkip">跳过</string>
+  <!-- Main/Windows/Duoluo/MonutainMidAni.xml -->
+  <string name="6rc7w3nov4di35-n2_ruu7" mz="n2">山顶是一个神殿。你得知堕落之神有四个圣柱来守护，你必须逐一击败这些圣柱，才能挑战神。</string>
+  <string name="6rc7w3nov4di35-n4_d3as" mz="btnSkip">跳过</string>
+  <!-- Main/Windows/Duoluo/MonutainTopAni.xml -->
+  <string name="6rc7w3nod3as37-n2_ruu7" mz="n2">山腰是一条向上的道路，景象也越发的破败，你明白，你必须向上攀登，一刻也不能停留。</string>
+  <string name="6rc7w3nod3as37-n4_d3as" mz="btnSkip">跳过</string>
+  <!-- Main/Windows/Duoluo/SmallCampfireCont.xml -->
+  <string name="6rc7w3noefe62j-n0_gbqg" mz="btnRest">休息</string>
+  <string name="6rc7w3noefe62j-n6_gbqg" mz="btnTrain">修行</string>
+  <string name="6rc7w3noefe62j-n7_gbqg" mz="btnMeditation">冥想</string>
+  <string name="6rc7w3noefe62j-n8_gbqg" mz="n8">回复2点HP。</string>
+  <string name="6rc7w3noefe62j-n10_gbqg" mz="n10">花费2点神力，升级一个技能。</string>
+  <string name="6rc7w3noefe62j-n11_gbqg" mz="n11">花费4点神力，获得一个全新技能。</string>
+  <!-- Main/Windows/ForeseeCont.xml -->
+  <string name="6rc7w3noiwb8t-n10_o5tm" mz="n10">抽牌顶</string>
+  <string name="6rc7w3noiwb8t-n11_o5tm" mz="n11">牌堆底</string>
+  <string name="6rc7w3noiwb8t-n15_o5tm" mz="btnConfirm">确定</string>
+  <!-- Main/Windows/LibraryCont.xml -->
+  <string name="6rc7w3nohprj1g-n1_hprj" mz="btnClose">关闭</string>
+  <string name="6rc7w3nohprj1g-n2_hprj" mz="btnSkill">技能</string>
+  <string name="6rc7w3nohprj1g-n3_hprj" mz="btnCard">卡牌</string>
+  <string name="6rc7w3nohprj1g-n9_hprj" mz="btnSkillUpgradeTrue">技能升级：true</string>
+  <string name="6rc7w3nohprj1g-n10_hprj" mz="btnSkillUpgradeFalse">技能升级：false</string>
+  <!-- Main/Windows/MainCont.xml -->
+  <string name="6rc7w3no82hnj-n0_ar7m" mz="btnPlay">开始游戏</string>
+  <string name="6rc7w3no82hnj-n1_ar7m" mz="btnSetting">设置</string>
+  <string name="6rc7w3no82hnj-n2_ar7m" mz="btnQuit">退出</string>
+  <string name="6rc7w3no82hnj-n3_ar7m" mz="btnContinue">continue</string>
+  <string name="6rc7w3no82hnj-n4_ar7m" mz="n4">弑神之路</string>
+  <string name="6rc7w3no82hnj-n5_hprj" mz="btnLibrary">资料</string>
+  <string name="6rc7w3no82hnj-n7_mehz" mz="btnTest">测试</string>
+  <!-- Main/Windows/PlayerInfoCont.xml -->
+  <string name="6rc7w3noincg2p-n3_incg" mz="btnClose">关闭</string>
+  <!-- Main/Windows/RewardCardCont.xml -->
+  <string name="6rc7w3nojn1h12-n4_jn1h" mz="btnSkip">跳过</string>
+  <!-- Main/Windows/SkillUpogradeCont.xml -->
+  <string name="6rc7w3nogbqg17-n7_gbqg" mz="btnConfirm">确定</string>
+  <string name="6rc7w3nogbqg17-n8_gbqg" mz="btnClose">关闭</string>
+  <!-- Main/Windows/StartStoryWin.xml -->
+  <string name="6rc7w3noruu72x-n2_ruu7" mz="n2">自上古以来，神一直统治着人间。</string>
+  <string name="6rc7w3noruu72x-n4_d3as" mz="btnSkip">跳过</string>
+  <!-- Main/Windows/TestCont.xml -->
+  <string name="6rc7w3nomehz2l-n0_mehz" mz="n0">角色：</string>
+  <string name="6rc7w3nomehz2l-n1_mehz" mz="n1">唐雨</string>
+  <string name="6rc7w3nomehz2l-n3_mehz" mz="n3">技能：</string>
+  <string name="6rc7w3nomehz2l-n4_mehz" mz="n4">牌库：</string>
+  <string name="6rc7w3nomehz2l-n7_mehz-prompt" mz="txtSkillID">输入技能id.......</string>
+  <string name="6rc7w3nomehz2l-n8_mehz" mz="btnAddSkill">增加技能</string>
+  <string name="6rc7w3nomehz2l-n10_mehz-prompt" mz="txtCardID">输入卡牌id.......</string>
+  <string name="6rc7w3nomehz2l-n11_mehz" mz="btnAddCard">增加卡牌</string>
+  <string name="6rc7w3nomehz2l-n12_mehz" mz="btnEnterCampfire">进入大篝火</string>
+  <string name="6rc7w3nomehz2l-n13_mehz" mz="btnEnterSmallCampfire">进入小篝火</string>
+  <string name="6rc7w3nomehz2l-n15_mehz" mz="btnSetGP">设置神力值</string>
+  <string name="6rc7w3nomehz2l-n16_mehz" mz="btnSetFog">设置雾气值</string>
+  <string name="6rc7w3nomehz2l-n18_mehz-prompt" mz="txtEventID">输入事件id............</string>
+  <string name="6rc7w3nomehz2l-n19_mehz" mz="btnEnterEvent">进入事件</string>
+  <string name="6rc7w3nomehz2l-n20_mehz" mz="btnDeleteCard">删除卡牌</string>
+  <string name="6rc7w3nomehz2l-n21_mehz" mz="btnSkillLvUp">升级技能</string>
+  <string name="6rc7w3nomehz2l-n22_mehz" mz="btnLvDown">降级技能</string>
+  <string name="6rc7w3nomehz2l-n25_mehz" mz="btnDeleteSkill">删除技能</string>
+  <string name="6rc7w3nomehz2l-n26_mehz" mz="btnSetHP">设置血量</string>
+  <string name="6rc7w3nomehz2l-n29_mehz" mz="btnHPMax">设置血上限</string>
+  <string name="6rc7w3nomehz2l-n33_e6s0" mz="btnEvntPlus1">事件id+1</string>
+</resources>

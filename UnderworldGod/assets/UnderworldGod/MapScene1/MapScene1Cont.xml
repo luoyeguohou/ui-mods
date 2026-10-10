@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_moie" name="bg" xy="0,0" size="1920,1080" url="ui://dlhruo0arsah1" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_moie" name="lnL1S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,255" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n2_moie" name="lnL1S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,255" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n3_moie" name="lnL1S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,445" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n4_moie" name="lnL1S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,445" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n5_moie" name="lnL1S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,445" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n6_moie" name="lnL1S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,635" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n7_moie" name="lnL1S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,635" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n8_moie" name="lnL1S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,635" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n9_moie" name="lnL1S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,825" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n10_moie" name="lnL1S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="170,825" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n11_moie" name="lnL2S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,255" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n12_moie" name="lnL2S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,255" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n13_moie" name="lnL2S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,445" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n14_moie" name="lnL2S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,445" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n15_moie" name="lnL2S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,445" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n16_moie" name="lnL2S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,635" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n17_moie" name="lnL2S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,635" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n18_moie" name="lnL2S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,635" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n19_moie" name="lnL2S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,825" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n20_moie" name="lnL2S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="448,825" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n21_moie" name="lnL3S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,255" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n22_moie" name="lnL3S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,255" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n23_moie" name="lnL3S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,445" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n24_moie" name="lnL3S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,445" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n25_moie" name="lnL3S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,445" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n26_moie" name="lnL3S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,635" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n27_moie" name="lnL3S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,635" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n28_moie" name="lnL3S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,635" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n29_moie" name="lnL3S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,825" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n30_moie" name="lnL3S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="726,825" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n31_moie" name="lnL4S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,255" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n32_moie" name="lnL4S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,255" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n33_moie" name="lnL4S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,445" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n34_moie" name="lnL4S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,445" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n35_moie" name="lnL4S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,445" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n36_moie" name="lnL4S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,635" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n37_moie" name="lnL4S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,635" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n38_moie" name="lnL4S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,635" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n39_moie" name="lnL4S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,825" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n40_moie" name="lnL4S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1004,825" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n41_moie" name="lnL5S1T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,255" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n42_moie" name="lnL5S1T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,255" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n43_moie" name="lnL5S2T1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,445" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n44_moie" name="lnL5S2T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,445" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n45_moie" name="lnL5S2T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,445" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n46_moie" name="lnL5S3T2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,635" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n47_moie" name="lnL5S3T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,635" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n48_moie" name="lnL5S3T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,635" pivot="0,0.5" anchor="true" size="337,10" rotation="34.35" touchable="false"/>
+    <component id="n49_moie" name="lnL5S4T3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,825" pivot="0,0.5" anchor="true" size="337,10" rotation="-34.35" touchable="false"/>
+    <component id="n50_moie" name="lnL5S4T4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1282,825" pivot="0,0.5" anchor="true" size="278,10" rotation="0.0" touchable="false"/>
+    <component id="n51_moie" name="lnBossS1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,255" pivot="0,0.5" anchor="true" size="357,10" rotation="52.97" touchable="false"/>
+    <component id="n52_moie" name="lnBossS2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,445" pivot="0,0.5" anchor="true" size="235,10" rotation="23.84" touchable="false"/>
+    <component id="n53_moie" name="lnBossS3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,635" pivot="0,0.5" anchor="true" size="235,10" rotation="-23.84" touchable="false"/>
+    <component id="n54_moie" name="lnBossS4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1560,825" pivot="0,0.5" anchor="true" size="357,10" rotation="-52.97" touchable="false"/>
+    <component id="n55_moie" name="btnL1S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n56_moie" name="btnL1S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n57_moie" name="btnL1S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n58_moie" name="btnL1S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="170,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n59_moie" name="btnL2S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="448,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n60_moie" name="btnL2S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="448,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n61_moie" name="btnL2S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="448,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n62_moie" name="btnL2S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="448,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n63_moie" name="btnL3S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="726,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n64_moie" name="btnL3S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="726,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n65_moie" name="btnL3S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="726,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n66_moie" name="btnL3S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="726,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n67_moie" name="btnL4S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1004,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n68_moie" name="btnL4S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1004,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n69_moie" name="btnL4S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1004,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n70_moie" name="btnL4S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1004,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n71_moie" name="btnL5S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1282,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n72_moie" name="btnL5S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1282,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n73_moie" name="btnL5S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1282,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n74_moie" name="btnL5S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1282,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n75_moie" name="btnL6S1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,255" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n76_moie" name="btnL6S2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,445" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n77_moie" name="btnL6S3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,635" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n78_moie" name="btnL6S4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,825" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n79_moie" name="btnBoss" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1775,540" pivot="0.5,0.5" anchor="true" scale="0.55,0.55"/>
+    <text id="n80_moie" name="lbl80" xy="1615,610" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="关底"/>
+    <graph id="n81_moie" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n82_moie" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="鬼市"/>
+  </displayList>
+</component>

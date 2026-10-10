@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n3_ruu7" name="n3" xy="960,540" pivot="0.5,0.5" anchor="true" size="2290,1256" url="ui://zq8mfx2pfu4gtnovf9" align="center" vAlign="middle" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width%,height-height%"/>
+    </loader>
+    <graph id="n0_ruu7" name="n0" xy="0,0" size="1920,137" type="rect" lineSize="2" lineColor="#ff987744" fillColor="#f0262932" corner="8">
+      <relation target="" sidePair="width-width,height-height%,top-top"/>
+    </graph>
+    <graph id="n1_ruu7" name="n1" xy="0,942" size="1920,137" type="rect" lineSize="2" lineColor="#ff987744" fillColor="#f0262932" corner="8">
+      <relation target="" sidePair="width-width,height-height%,bottom-bottom"/>
+    </graph>
+    <text id="n2_ruu7" name="n2" xy="88,969" size="1741,93" fontSize="55" color="#efdfbb" autoSize="shrink" strokeColor="#151922" text="堕落之神释放雾气笼罩了神界山，吸入雾气会逐渐丧失神智，成为堕落之神的守护者。">
+      <relation target="" sidePair="width-width,height-height%,bottom-bottom"/>
+    </text>
+    <component id="n4_d3as" name="btnSkip" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="31,42">
+      <Button title="跳过"/>
+    </component>
+    <text id="n6_mt1r" name="n6" xy="88,969" size="1741,93" visible="false" fontSize="55" color="#efdfbb" autoSize="shrink" strokeColor="#151922" text="你来到了山底，山底的雾气稀薄，大多数人可以维持理智，这里是一个个小村落。不过也不能停留过久，吸入过多的雾气。&#xA;">
+      <relation target="" sidePair="width-width,height-height%,bottom-bottom"/>
+    </text>
+  </displayList>
+  <transition name="idle">
+    <item time="0" type="Scale" target="n3_ruu7" tween="true" startValue="1,1" endValue="0.95,0.95" duration="50"/>
+    <item time="0" type="Visible" target="n2_ruu7" value="true"/>
+    <item time="69" type="Scale" target="n3_ruu7" value="0.95,0.95"/>
+    <item time="95" type="Scale" target="n3_ruu7" tween="true" startValue="1,1" endValue="0.95,0.95" duration="68"/>
+    <item time="95" type="Visible" target="n2_ruu7" value="false"/>
+    <item time="95" type="Visible" target="n6_mt1r" value="true"/>
+    <item time="226" type="Scale" target="n3_ruu7" value="0.95,0.95"/>
+  </transition>
+</component>

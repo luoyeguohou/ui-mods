@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_ky8s" name="n0" xy="0,0" size="1920,1080" url="ui://0jb45q1hky8s1" align="center" vAlign="middle" fill="scaleNoBorder" color="#646464">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_nti7" name="btnBoss" src="nti72" fileName="Components/MapPoint.xml" xy="1422,1"/>
+    <component id="n2_nti7" name="btnEvent1" src="nti72" fileName="Components/MapPoint.xml" xy="1008,813"/>
+    <component id="n3_nti7" name="btnEvent2" src="nti72" fileName="Components/MapPoint.xml" xy="329,253"/>
+    <component id="n4_nti7" name="btnEvent3" src="nti72" fileName="Components/MapPoint.xml" xy="592,666"/>
+    <component id="n5_nti7" name="btnEvent4" src="nti72" fileName="Components/MapPoint.xml" xy="1439,630"/>
+  </displayList>
+</component>

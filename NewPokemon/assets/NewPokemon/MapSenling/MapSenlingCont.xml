@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_q8wj" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq94" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_q8wj" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="360,680" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n2_q8wj" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="760,680" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n3_q8wj" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1160,680" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n4_q8wj" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,680" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n5_q8wj" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,300" pivot="0.5,0.5" anchor="true" scale="0.55,0.55"/>
+    <text id="n6_q8wj" name="lbl6" xy="800,370" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="道馆"/>
+    <graph id="n7_q8wj" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n8_q8wj" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="森灵市"/>
+  </displayList>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_nznq" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq916" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_nznq" name="region2" xy="220,380" size="1480,260" touchable="false" type="rect" lineSize="3" lineColor="#ff987744" fillColor="#55262932" corner="16"/>
+    <text id="n2_nznq" name="lbl2" xy="236,386" size="400,40" fontSize="28" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="施工围挡区"/>
+    <component id="n3_nznq" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="360,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n4_nznq" name="btnWall1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="360,520" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n5_nznq" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="760,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n6_nznq" name="btnWall2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="760,520" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n7_nznq" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1160,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n8_nznq" name="btnWall3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1160,520" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n9_nznq" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n10_nznq" name="btnWall4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,520" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n11_nznq" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,210" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n12_nznq" name="lbl12" xy="800,274" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="西陵博物馆古代馆"/>
+    <graph id="n13_nznq" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n14_nznq" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="西陵市"/>
+  </displayList>
+</component>

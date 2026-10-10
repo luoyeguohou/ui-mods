@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component size="155,155">
+  <controller name="type" exported="true" pages="1,combat,2,elite,3,event,0,campfire" selected="3" />
+  <displayList>
+    <loader id="n1_hprj" name="n1" xy="0,0" size="155,155" url="ui://zq8mfx2phprj26" align="center" vAlign="middle" fill="scale">
+      <gearIcon controller="type" pages="1,2,3,0" values="ui://zq8mfx2phprj29|ui://zq8mfx2phprj27|ui://zq8mfx2phprj28|ui://zq8mfx2phprj26" />
+      <relation target="" sidePair="width-width,height-height" />
+    </loader>
+    <loader id="n2_hprj" name="n2" xy="0,0" size="155,155" url="ui://zq8mfx2phprj23" align="center" vAlign="middle" fill="scale">
+      <gearIcon controller="type" pages="1,2,3,0" values="ui://zq8mfx2phprj22|ui://zq8mfx2phprj24|ui://zq8mfx2phprj25|ui://zq8mfx2phprj23" />
+      <relation target="" sidePair="width-width,height-height" />
+    </loader>
+  </displayList>
+</component>

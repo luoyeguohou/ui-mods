@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_jii2" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq9a" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_jii2" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="360,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n2_jii2" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="760,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n3_jii2" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1160,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n4_jii2" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,820" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n5_jii2" name="btnYard" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="360,510" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <text id="n6_jii2" name="lbl6" xy="200,564" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="老矿工的院子"/>
+    <component id="n7_jii2" name="btnTunnel" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="760,510" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <text id="n8_jii2" name="lbl8" xy="600,564" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="废弃矿道"/>
+    <component id="n9_jii2" name="btnSummit" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1160,510" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <text id="n10_jii2" name="lbl10" xy="1000,564" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="山顶观景台"/>
+    <component id="n11_jii2" name="btnActivity" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1560,510" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <text id="n12_jii2" name="lbl12" xy="1400,564" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="职工活动室"/>
+    <component id="n13_jii2" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,210" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n14_jii2" name="lbl14" xy="800,274" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="地质公园训练馆"/>
+    <graph id="n15_jii2" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n16_jii2" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="白石镇"/>
+  </displayList>
+</component>

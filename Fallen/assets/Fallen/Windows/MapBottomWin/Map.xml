@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="3344,2508">
+  <displayList>
+    <image id="n13_jlk1" name="n13" src="fu4gtnovf9" fileName="Pictures/New/exec-8b3fbac9-cb11-48d1-9281-179c43576263.png" xy="0,0" size="3344,2508" aspect="true" filter="color" filterData="0,-0.4,0,0"/>
+    <component id="n3_82hn" name="btnPos1" src="lh0xw" fileName="Components/MapPoint.xml" xy="406,970" pkg="msb8m4n5"/>
+    <component id="n4_82hn" name="btnPos2" src="lh0xw" fileName="Components/MapPoint.xml" xy="1406,962" size="370,242" pkg="msb8m4n5"/>
+    <component id="n5_82hn" name="btnPos3" src="lh0xw" fileName="Components/MapPoint.xml" xy="2360,890" size="370,242" pkg="msb8m4n5"/>
+    <component id="n6_82hn" name="btnPos7" src="lh0xw" fileName="Components/MapPoint.xml" xy="655,1993" size="370,242" pkg="msb8m4n5"/>
+    <component id="n8_82hn" name="btnPos6" src="lh0xw" fileName="Components/MapPoint.xml" xy="2331,1497" size="370,242" pkg="msb8m4n5"/>
+    <component id="n9_82hn" name="btnPos9" src="lh0xw" fileName="Components/MapPoint.xml" xy="2379,1950" size="370,242" pkg="msb8m4n5"/>
+    <component id="n10_82hn" name="btnPos5" src="lh0xw" fileName="Components/MapPoint.xml" xy="1414,1491" size="370,242" pkg="msb8m4n5"/>
+    <component id="n11_82hn" name="btnPos4" src="lh0xw" fileName="Components/MapPoint.xml" xy="653,1466" size="370,242" pkg="msb8m4n5"/>
+    <component id="n12_82hn" name="btnPos8" src="lh0xw" fileName="Components/MapPoint.xml" xy="1472,1997" size="370,242" pkg="msb8m4n5"/>
+    <component id="n14_jlk1" name="btnPosBoss" src="lh0xw" fileName="Components/MapPoint.xml" xy="1240,100" size="898,457" pkg="msb8m4n5"/>
+  </displayList>
+</component>

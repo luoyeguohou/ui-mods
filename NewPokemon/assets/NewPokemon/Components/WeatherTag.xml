@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,64">
+  <controller name="weather" pages="0,none,1,windy,2,rain" selected="0"/>
+  <displayList>
+    <loader id="n0_htlb" name="icon" xy="0,0" size="64,64" url="ui://aaa7mil0luq91" align="center" vAlign="middle" fill="scale" touchable="false">
+      <gearDisplay controller="weather" pages="1,2"/>
+      <gearIcon controller="weather" pages="1,2" values="ui://aaa7mil0luq91|ui://aaa7mil0luq92" default="ui://aaa7mil0luq91"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+</component>

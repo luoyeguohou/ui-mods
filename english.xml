@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Main/Components/Card.xml -->
+  <string name="6rc7w3nopcqv3-n8_hprj" mz="n8">Item - Weapon</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_0" mz="n8">Base</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_1" mz="n8">Item - Weapon</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_2" mz="n8">Item - Armor</string>
+  <string name="6rc7w3nopcqv3-n8_hprj-texts_def" mz="n8">Skill</string>
+  <!-- Main/Components/HP.xml -->
+  <string name="6rc7w3nopcqv6-n15_pcqv" mz="txtNum">X{num=18}/{max=18}</string>
+  <!-- Main/Components/MainHand.xml -->
+  <string name="6rc7w3nopcqv1-n86_fl4x" mz="btnEndTurn">End Turn</string>
+  <!-- Main/Components/MapPoint.xml -->
+  <string name="6rc7w3nolh0xw-n5_lh0x" mz="n5">Explored</string>
+  <!-- Main/Components/MapTopBar.xml -->
+  <string name="6rc7w3nomehz2m-n6_yxox" mz="txtFog">Fog: {val=0}</string>
+  <string name="6rc7w3nomehz2m-n6_yxox-texts_0" mz="txtFog">Fog: {val=0}</string>
+  <string name="6rc7w3nomehz2m-n6_yxox-texts_def" mz="txtFog">Fog: {val=0}/{max=6}</string>
+  <string name="6rc7w3nomehz2m-n8_i8lt" mz="btnDeck">Player Info</string>
+  <string name="6rc7w3nomehz2m-n11_mhnx" mz="txtHP">HP: {val=0}</string>
+  <string name="6rc7w3nomehz2m-n13_mhnx" mz="txtGP">Divine Power: {val=0}</string>
+  <string name="6rc7w3nomehz2m-n15_mhnx" mz="txtCampfire">Campfire: {val=0}</string>
+  <string name="6rc7w3nomehz2m-n16_mhnx" mz="btnCampfire">Campfire</string>
+  <string name="6rc7w3nomehz2m-n18_mehz" mz="n18">The higher the Fog, the stronger enemies become.
+Fog reaches 3: enemies start with 1 extra card.
+Fog reaches 6: enemies draw 1 extra card each turn.
+Fog reaches 9: enemy max HP increases by 1.
+Fog reaches 12: enemies start with 1 extra card.
+Fog reaches 15: enemies draw 1 extra card each turn.
+Fog reaches 18: enemy max HP increases by 1.
+Fog reaches 21: enemies start with 1 extra card and draw 1 extra card each turn.
+Fog reaches 24: enemy max HP increases by 1, enemies start with 1 extra card, and draw 1 extra card each turn.</string>
+  <!-- Main/Components/Player.xml -->
+  <string name="6rc7w3nopcqv8-n24_kdzb" mz="n24">Selected</string>
+  <string name="6rc7w3nopcqv8-n24_kdzb-texts_0" mz="n24">Dead</string>
+  <string name="6rc7w3nopcqv8-n24_kdzb-texts_def" mz="n24">Selected</string>
+  <string name="6rc7w3nopcqv8-n27_ocvx" mz="txtHandNum">X{num=99}</string>
+  <string name="6rc7w3nopcqv8-n32_jlk1" mz="txtSkill">Use Skill {name=Stargaze}</string>
+  <!-- Main/Windows/CardListCont.xml -->
+  <string name="6rc7w3noymjrb-n31_ymjr" mz="btnClose">Close</string>
+  <!-- Main/Windows/CharacterCont.xml -->
+  <string name="6rc7w3noiwb8u-n6_82hn" mz="btnBack">Back</string>
+  <string name="6rc7w3noiwb8u-n7_82hn" mz="btnConfirm">Confirm</string>
+  <!-- Main/Windows/ChooseCardCont.xml -->
+  <string name="6rc7w3noefe62h-n31_ymjr" mz="btnConfirm">Confirm</string>
+  <!-- Main/Windows/ChooseCardFromUnitCont.xml -->
+  <string name="6rc7w3nojlk11c-n5_jlk1" mz="btnConfirm">Confirm</string>
+  <!-- Main/Windows/CombatCont.xml -->
+  <string name="6rc7w3nopcqv2-n27_ymjr" mz="btnDraw">Draw Pile</string>
+  <string name="6rc7w3nopcqv2-n28_ymjr" mz="btnDiscard">Discard Pile</string>
+  <string name="6rc7w3nopcqv2-n35_ldtx" mz="btnGetCard">Gain Card</string>
+  <string name="6rc7w3nopcqv2-n36_eicz" mz="btnEneryGetCard">Enemy Gains Card</string>
+  <string name="6rc7w3nopcqv2-n39_eicz" mz="btnBack">Back</string>
+  <string name="6rc7w3nopcqv2-n40_sblx" mz="btnTurt">Tutorial</string>
+  <string name="6rc7w3nopcqv2-n42_sblx" mz="n42">Combat tutorial
+1. Combat is card based. Each unit takes turns until one side wins.
+2. Everyone shares one deck and draws 2 cards from it each turn. The player also draws 1 extra card from their personal deck.
+3. Cards are divided into Base cards, Skill cards, and Item cards.
+[Base Cards]: You may use 1 [Attack] each turn. If the target cannot play 1 [Dodge], they take 1 damage. [Heal] restores 1 HP.
+[Skill Cards]: After being played, they resolve according to their description. There is no use limit.
+[Item Cards]: After being played, they enter your item area. You may have at most 1 weapon and 1 armor.
+</string>
+  <string name="6rc7w3nopcqv2-n43_tqhu" mz="btnTurt1">Tutorial</string>
+  <!-- Main/Windows/Duoluo/CampfireCont.xml -->
+  <string name="6rc7w3nogbqg14-n0_gbqg" mz="btnRest">Rest</string>
+  <string name="6rc7w3nogbqg14-n5_gbqg" mz="btnBreakthrough">Breakthrough</string>
+  <string name="6rc7w3nogbqg14-n6_gbqg" mz="btnTrain">Train</string>
+  <string name="6rc7w3nogbqg14-n7_gbqg" mz="btnMeditation">Meditate</string>
+  <string name="6rc7w3nogbqg14-n8_gbqg" mz="n8">Restore all HP.</string>
+  <string name="6rc7w3nogbqg14-n9_gbqg" mz="n9">Increase max HP by 1.</string>
+  <string name="6rc7w3nogbqg14-n10_gbqg" mz="n10">Spend 1 Divine Power to upgrade a skill.</string>
+  <string name="6rc7w3nogbqg14-n11_gbqg" mz="n11">Spend 3 Divine Power to gain a new skill.</string>
+  <string name="6rc7w3nogbqg14-n12_gbqg" mz="btnCancel">Cancel Campfire</string>
+  <!-- Main/Windows/Duoluo/MapBottomWin.xml -->
+  <string name="6rc7w3no82hnm-n9_tqhu" mz="n9">Tutorial</string>
+  <string name="6rc7w3no82hnm-n10_tqhu" mz="n10">Tutorial</string>
+  <string name="6rc7w3no82hnm-n12_tqhu" mz="n12">Welcome to the Godslayer's Road. You are one who dares to challenge a god.
+The god waits in the temple at the mountain summit. You must pass through the mountain base, the mountainside, and the summit before you can defeat him.
+This is the mountain base map. This place has not yet fully fallen under the god's control.
+
+You may explore the mountain base in any order.         and           mean you will encounter combat. Combat rewards you with cards in normal battles and skills in elite battles.
+
+            means you will encounter an event. Events usually ask you to make a choice.
+However, both combat and events increase the Fog inside you by 1. At the mountain base, you can only absorb up to 9 Fog.
+You have two campfires on the mountain base map. You may stop and use a campfire to rest. These campfires will disappear on the next map.
+At the top of the map waits the guardian at the end of the mountain base, the boss of this area. Defeat him to reach the mountainside, but you may want to grow stronger through easier battles first.</string>
+  <!-- Main/Windows/Duoluo/MapMidWin.xml -->
+  <string name="6rc7w3nohprj2c-n3_gqgq" mz="n3">Tutorial</string>
+  <string name="6rc7w3nohprj2c-n4_gqgq" mz="n4">Tutorial</string>
+  <string name="6rc7w3nohprj2c-n6_gqgq" mz="n6">This is the mountainside map.
+You must climb from the bottom to the top.
+The map is an upward path with branching routes. Each exploration still increases Fog by 1. The Fog grows thicker here, and there is no turning back.
+Defeat the guardian at the peak of the mountainside to reach the summit.</string>
+  <!-- Main/Windows/Duoluo/MonutainBotAni.xml -->
+  <string name="6rc7w3nod3as36-n2_ruu7" mz="n2">The Fallen God released Fog over the Divine Mountain. Those who breathe it in slowly lose their minds and become his guardians.</string>
+  <string name="6rc7w3nod3as36-n4_d3as" mz="btnSkip">Skip</string>
+  <!-- Main/Windows/Duoluo/MonutainMidAni.xml -->
+  <string name="6rc7w3nov4di35-n2_ruu7" mz="n2">At the summit stands a temple. You learn that the Fallen God is guarded by four sacred pillars. You must defeat them one by one before you can challenge the god.</string>
+  <string name="6rc7w3nov4di35-n4_d3as" mz="btnSkip">Skip</string>
+  <!-- Main/Windows/Duoluo/MonutainTopAni.xml -->
+  <string name="6rc7w3nod3as37-n2_ruu7" mz="n2">The mountainside is a road that only leads upward. The land grows more ruined with every step. You know you must keep climbing without pause.</string>
+  <string name="6rc7w3nod3as37-n4_d3as" mz="btnSkip">Skip</string>
+  <!-- Main/Windows/Duoluo/SmallCampfireCont.xml -->
+  <string name="6rc7w3noefe62j-n0_gbqg" mz="btnRest">Rest</string>
+  <string name="6rc7w3noefe62j-n6_gbqg" mz="btnTrain">Train</string>
+  <string name="6rc7w3noefe62j-n7_gbqg" mz="btnMeditation">Meditate</string>
+  <string name="6rc7w3noefe62j-n8_gbqg" mz="n8">Restore 2 HP.</string>
+  <string name="6rc7w3noefe62j-n10_gbqg" mz="n10">Spend 2 Divine Power to upgrade a skill.</string>
+  <string name="6rc7w3noefe62j-n11_gbqg" mz="n11">Spend 4 Divine Power to gain a new skill.</string>
+  <!-- Main/Windows/ForeseeCont.xml -->
+  <string name="6rc7w3noiwb8t-n10_o5tm" mz="n10">Deck Top</string>
+  <string name="6rc7w3noiwb8t-n11_o5tm" mz="n11">Deck Bottom</string>
+  <string name="6rc7w3noiwb8t-n15_o5tm" mz="btnConfirm">Confirm</string>
+  <!-- Main/Windows/LibraryCont.xml -->
+  <string name="6rc7w3nohprj1g-n1_hprj" mz="btnClose">Close</string>
+  <string name="6rc7w3nohprj1g-n2_hprj" mz="btnSkill">Skills</string>
+  <string name="6rc7w3nohprj1g-n3_hprj" mz="btnCard">Cards</string>
+  <string name="6rc7w3nohprj1g-n9_hprj" mz="btnSkillUpgradeTrue">Skill Upgrade: true</string>
+  <string name="6rc7w3nohprj1g-n10_hprj" mz="btnSkillUpgradeFalse">Skill Upgrade: false</string>
+  <!-- Main/Windows/MainCont.xml -->
+  <string name="6rc7w3no82hnj-n0_ar7m" mz="btnPlay">Start Game</string>
+  <string name="6rc7w3no82hnj-n1_ar7m" mz="btnSetting">Settings</string>
+  <string name="6rc7w3no82hnj-n2_ar7m" mz="btnQuit">Quit</string>
+  <string name="6rc7w3no82hnj-n3_ar7m" mz="btnContinue">continue</string>
+  <string name="6rc7w3no82hnj-n4_ar7m" mz="n4">Godslayer's Road</string>
+  <string name="6rc7w3no82hnj-n5_hprj" mz="btnLibrary">Library</string>
+  <string name="6rc7w3no82hnj-n7_mehz" mz="btnTest">Test</string>
+  <!-- Main/Windows/PlayerInfoCont.xml -->
+  <string name="6rc7w3noincg2p-n3_incg" mz="btnClose">Close</string>
+  <!-- Main/Windows/RewardCardCont.xml -->
+  <string name="6rc7w3nojn1h12-n4_jn1h" mz="btnSkip">Skip</string>
+  <!-- Main/Windows/SkillUpogradeCont.xml -->
+  <string name="6rc7w3nogbqg17-n7_gbqg" mz="btnConfirm">Confirm</string>
+  <string name="6rc7w3nogbqg17-n8_gbqg" mz="btnClose">Close</string>
+  <!-- Main/Windows/StartStoryWin.xml -->
+  <string name="6rc7w3noruu72x-n2_ruu7" mz="n2">Since ancient times, the gods have ruled the mortal world.</string>
+  <string name="6rc7w3noruu72x-n4_d3as" mz="btnSkip">Skip</string>
+  <!-- Main/Windows/TestCont.xml -->
+  <string name="6rc7w3nomehz2l-n0_mehz" mz="n0">Character:</string>
+  <string name="6rc7w3nomehz2l-n1_mehz" mz="n1">Tang Yu</string>
+  <string name="6rc7w3nomehz2l-n3_mehz" mz="n3">Skills:</string>
+  <string name="6rc7w3nomehz2l-n4_mehz" mz="n4">Deck:</string>
+  <string name="6rc7w3nomehz2l-n7_mehz-prompt" mz="txtSkillID">Enter skill id.......</string>
+  <string name="6rc7w3nomehz2l-n8_mehz" mz="btnAddSkill">Add Skill</string>
+  <string name="6rc7w3nomehz2l-n10_mehz-prompt" mz="txtCardID">Enter card id.......</string>
+  <string name="6rc7w3nomehz2l-n11_mehz" mz="btnAddCard">Add Card</string>
+  <string name="6rc7w3nomehz2l-n12_mehz" mz="btnEnterCampfire">Open Campfire</string>
+  <string name="6rc7w3nomehz2l-n13_mehz" mz="btnEnterSmallCampfire">Open Small Campfire</string>
+  <string name="6rc7w3nomehz2l-n15_mehz" mz="btnSetGP">Set Divine Power</string>
+  <string name="6rc7w3nomehz2l-n16_mehz" mz="btnSetFog">Set Fog</string>
+  <string name="6rc7w3nomehz2l-n18_mehz-prompt" mz="txtEventID">Enter event id............</string>
+  <string name="6rc7w3nomehz2l-n19_mehz" mz="btnEnterEvent">Enter Event</string>
+  <string name="6rc7w3nomehz2l-n20_mehz" mz="btnDeleteCard">Delete Card</string>
+  <string name="6rc7w3nomehz2l-n21_mehz" mz="btnSkillLvUp">Skill Lv Up</string>
+  <string name="6rc7w3nomehz2l-n22_mehz" mz="btnLvDown">Skill Lv Down</string>
+  <string name="6rc7w3nomehz2l-n25_mehz" mz="btnDeleteSkill">Delete Skill</string>
+  <string name="6rc7w3nomehz2l-n26_mehz" mz="btnSetHP">Set HP</string>
+  <string name="6rc7w3nomehz2l-n29_mehz" mz="btnHPMax">Set Max HP</string>
+  <string name="6rc7w3nomehz2l-n33_e6s0" mz="btnEvntPlus1">Event id +1</string>
+</resources>

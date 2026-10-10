@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_vbsc" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq919" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_vbsc" name="ln1_0" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="200,440" pivot="0,0.5" anchor="true" size="380,16" rotation="0.0" touchable="false"/>
+    <component id="n2_vbsc" name="ln2_0" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,80" pivot="0,0.5" anchor="true" size="180,16" rotation="90.0" touchable="false"/>
+    <component id="n3_vbsc" name="ln1_1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="580,440" pivot="0,0.5" anchor="true" size="380,16" rotation="0.0" touchable="false"/>
+    <component id="n4_vbsc" name="ln2_1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,260" pivot="0,0.5" anchor="true" size="180,16" rotation="90.0" touchable="false"/>
+    <component id="n5_vbsc" name="ln1_2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,440" pivot="0,0.5" anchor="true" size="280,16" rotation="0.0" touchable="false"/>
+    <component id="n6_vbsc" name="ln2_2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,440" pivot="0,0.5" anchor="true" size="180,16" rotation="90.0" touchable="false"/>
+    <component id="n7_vbsc" name="ln1_3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1240,440" pivot="0,0.5" anchor="true" size="260,16" rotation="0.0" touchable="false"/>
+    <component id="n8_vbsc" name="ln2_3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,620" pivot="0,0.5" anchor="true" size="180,16" rotation="90.0" touchable="false"/>
+    <component id="n9_vbsc" name="ln1_4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1500,440" pivot="0,0.5" anchor="true" size="260,16" rotation="0.0" touchable="false"/>
+    <component id="n10_vbsc" name="ln2_4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,800" pivot="0,0.5" anchor="true" size="180,16" rotation="90.0" touchable="false"/>
+    <component id="n11_vbsc" name="btnLine1_1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="200,440" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n12_vbsc" name="btnLine1_2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="580,440" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n13_vbsc" name="btnLine1_3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1240,440" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n14_vbsc" name="btnLine1_4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1500,440" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n15_vbsc" name="btnLine1_5" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1760,440" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n16_vbsc" name="btnLine2_1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,80" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n17_vbsc" name="btnLine2_2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,260" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n18_vbsc" name="btnLine2_3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,620" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n19_vbsc" name="btnLine2_4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,800" pivot="0.5,0.5" anchor="true" scale="0.36,0.36"/>
+    <component id="n20_vbsc" name="btnHub" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,440" pivot="0.5,0.5" anchor="true" scale="0.45,0.45"/>
+    <text id="n21_vbsc" name="lbl21" xy="800,498" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="换乘大厅"/>
+    <component id="n22_vbsc" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,980" pivot="0.5,0.5" anchor="true" scale="0.4,0.4"/>
+    <text id="n23_vbsc" name="lblGym" xy="1050,950" size="400,60" fontSize="30" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="商场中庭道馆"/>
+    <text id="n24_vbsc" name="lblLine1" xy="110,360" size="200,40" fontSize="30" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="1号线"/>
+    <text id="n25_vbsc" name="lblLine2" xy="1050,40" size="200,40" fontSize="30" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="2号线"/>
+    <text id="n26_vbsc" name="lblStart" xy="120,520" size="260,40" fontSize="24" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="起点 → 1号线首站"/>
+    <text id="n27_vbsc" name="txtSteps" xy="1400,120" size="480,70" fontSize="38" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="剩余运营步数：8"/>
+    <component id="n28_vbsc" name="btnTaxi" src="fdnltnovh6" fileName="BtnCommon/BtnCommon.xml" pkg="msb8m4n5" xy="1560,860">
+      <Button title="打车"/>
+    </component>
+    <graph id="n29_vbsc" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="169,123" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n30_vbsc" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="中州市"/>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rz6gajiv">
+  <resources>
+    <image id="ak0c1" name="bg_scene1.png" path="/Pictures/"/>
+    <component id="ak0c2" name="MapScene1Cont.xml" path="/MapScene1/"/>
+    <component id="ak0c3" name="MapScene1.xml" path="/" exported="true"/>
+    <image id="ak0c4" name="bg_scene2.png" path="/Pictures/"/>
+    <component id="ak0c5" name="MapScene2Cont.xml" path="/MapScene2/"/>
+    <component id="ak0c6" name="MapScene2.xml" path="/" exported="true"/>
+    <image id="ak0c7" name="bg_scene3.png" path="/Pictures/"/>
+    <component id="ak0c8" name="MapScene3Cont.xml" path="/MapScene3/"/>
+    <component id="ak0c9" name="MapScene3.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

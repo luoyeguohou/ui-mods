@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_wzb4" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq913" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_wzb4" name="line1" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="150,620" pivot="0,0.5" anchor="true" size="252,14" rotation="-36.6" touchable="false"/>
+    <component id="n2_wzb4" name="line2" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="352,470" pivot="0,0.5" anchor="true" size="252,14" rotation="36.46" touchable="false"/>
+    <component id="n3_wzb4" name="line3" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="555,620" pivot="0,0.5" anchor="true" size="252,14" rotation="-36.6" touchable="false"/>
+    <component id="n4_wzb4" name="line4" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="757,470" pivot="0,0.5" anchor="true" size="252,14" rotation="36.46" touchable="false"/>
+    <component id="n5_wzb4" name="line5" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="960,620" pivot="0,0.5" anchor="true" size="252,14" rotation="-36.6" touchable="false"/>
+    <component id="n6_wzb4" name="line6" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1162,470" pivot="0,0.5" anchor="true" size="252,14" rotation="36.46" touchable="false"/>
+    <component id="n7_wzb4" name="line7" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1365,620" pivot="0,0.5" anchor="true" size="252,14" rotation="-36.6" touchable="false"/>
+    <component id="n8_wzb4" name="line8" src="h8bhtnoves" fileName="Line.xml" pkg="msb8m4n5" xy="1567,470" pivot="0,0.5" anchor="true" size="252,14" rotation="36.46" touchable="false"/>
+    <component id="n9_wzb4" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="150,620" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n10_wzb4" name="lbl10" xy="-10,669" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第1站"/>
+    <component id="n11_wzb4" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="352,470" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n12_wzb4" name="lbl12" xy="192,519" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第2站"/>
+    <component id="n13_wzb4" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="555,620" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n14_wzb4" name="lbl14" xy="395,669" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第3站"/>
+    <component id="n15_wzb4" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="757,470" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n16_wzb4" name="lbl16" xy="597,519" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第4站"/>
+    <component id="n17_wzb4" name="btnSlot5" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="960,620" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n18_wzb4" name="lbl18" xy="800,669" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第5站"/>
+    <component id="n19_wzb4" name="btnSlot6" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1162,470" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n20_wzb4" name="lbl20" xy="1002,519" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第6站"/>
+    <component id="n21_wzb4" name="btnSlot7" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1365,620" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n22_wzb4" name="lbl22" xy="1205,669" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第7站"/>
+    <component id="n23_wzb4" name="btnSlot8" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1567,470" pivot="0.5,0.5" anchor="true" scale="0.38,0.38"/>
+    <text id="n24_wzb4" name="lbl24" xy="1407,519" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="第8站"/>
+    <component id="n25_wzb4" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1770,620" pivot="0.5,0.5" anchor="true" scale="0.45,0.45"/>
+    <text id="n26_wzb4" name="lbl26" xy="1610,678" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="终点站·铁路职工俱乐部"/>
+    <text id="n27_wzb4" name="txtTrain" xy="560,160" size="800,70" fontSize="40" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="本段最远可前进2站"/>
+    <graph id="n28_wzb4" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="176,127" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n29_wzb4" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="通河市"/>
+  </displayList>
+</component>

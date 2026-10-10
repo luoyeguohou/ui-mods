@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zq8mfx2p">
+  <resources>
+    <component id="82hnm" name="MapBottomWin.xml" path="/Windows/MapBottomWin/" exported="true"/>
+    <component id="82hno" name="Map.xml" path="/Windows/MapBottomWin/"/>
+    <component id="82hnp" name="MapContainer.xml" path="/Windows/MapBottomWin/"/>
+    <component id="gbqg13" name="CampfireWin.xml" path="/Windows/CampfireWin/" exported="true"/>
+    <component id="gbqg14" name="CampfireCont.xml" path="/Windows/CampfireWin/"/>
+    <image id="gbqg15" name="campfire.png" path="/Pictures/mountain/"/>
+    <image id="jlk118" name="mountainBot.png" path="/Pictures/mountain/"/>
+    <image id="hprj2b" name="mountainMid.png" path="/Pictures/mountain/"/>
+    <component id="hprj2c" name="MapMidWin.xml" path="/Windows/MapMidWin/" exported="true"/>
+    <component id="hprj2d" name="MapMidBg.xml" path="/Windows/MapMidWin/"/>
+    <component id="hprj2e" name="MapMid.xml" path="/Windows/MapMidWin/"/>
+    <component id="efe62i" name="SmallCampfireWin.xml" path="/Windows/CampfireWin/" exported="true"/>
+    <component id="efe62j" name="SmallCampfireCont.xml" path="/Windows/CampfireWin/"/>
+    <image id="ruu72y" name="mountainTop.png" path="/Pictures/mountain/story/"/>
+    <image id="ruu72z" name="mountainBot-1.png" path="/Pictures/mountain/story/"/>
+    <image id="ruu733" name="mountainBot-2.png" path="/Pictures/mountain/story/"/>
+    <image id="ruu734" name="mountainMid.png" path="/Pictures/mountain/story/"/>
+    <component id="v4di35" name="MonutainMidAni.xml" path="/Windows/AniWin/" exported="true"/>
+    <component id="d3as36" name="MonutainBotAni.xml" path="/Windows/AniWin/" exported="true"/>
+    <component id="d3as37" name="MonutainTopAni.xml" path="/Windows/AniWin/" exported="true"/>
+    <image id="artcamp" name="campfire.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artmaplow" name="map_lower.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artmapup" name="map_upper.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtnup" name="button_normal.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtnover" name="button_hover.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtndown" name="button_pressed.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtnoff" name="button_disabled.png" path="/Pictures/Art/" exported="true"/>
+    <component id="kvgatnovet" name="MapTopWin.xml" path="/Windows/MapTopWin/" exported="true"/>
+    <component id="kvgatnoveu" name="MapContainerTop.xml" path="/Windows/MapTopWin/"/>
+    <image id="fu4gtnovey" name="mapTop.png" path="/Pictures/New/"/>
+    <image id="fu4gtnovf0" name="mapMid.png" path="/Pictures/New/"/>
+    <image id="fu4gtnovf5" name="campfire.png" path="/Pictures/New/"/>
+    <image id="fu4gtnovf9" name="mapBot.png" path="/Pictures/New/"/>
+  </resources>
+  <publish name="" path="C:\projects\ThreeKingdomRouge\ThreeKingdomRouge.ModEditor\ModEditor\Assets\StreamingAssets\Mods\fallen\ui" packageCount="2"/>
+</packageDescription>

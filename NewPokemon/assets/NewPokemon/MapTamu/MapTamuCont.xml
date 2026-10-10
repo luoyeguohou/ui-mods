@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <loader id="n0_wi9h" name="bg" xy="0,0" size="1920,1080" url="ui://aaa7mil0luq910" align="center" vAlign="middle" fill="scaleNoBorder" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_wi9h" name="btnSlot1" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="300,300" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n2_wi9h" name="btnSlot1Weather" src="luq93" fileName="Components/WeatherTag.xml" xy="347,216" touchable="false" visible="false"/>
+    <component id="n3_wi9h" name="btnSlot2" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="300,800" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n4_wi9h" name="btnSlot2Weather" src="luq93" fileName="Components/WeatherTag.xml" xy="347,716" touchable="false" visible="false"/>
+    <component id="n5_wi9h" name="btnSlot3" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="700,550" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n6_wi9h" name="btnSlot3Weather" src="luq93" fileName="Components/WeatherTag.xml" xy="747,466" touchable="false" visible="false"/>
+    <component id="n7_wi9h" name="btnSlot4" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1100,300" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n8_wi9h" name="btnSlot4Weather" src="luq93" fileName="Components/WeatherTag.xml" xy="1147,216" touchable="false" visible="false"/>
+    <component id="n9_wi9h" name="btnSlot5" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1100,800" pivot="0.5,0.5" anchor="true" scale="0.42,0.42"/>
+    <component id="n10_wi9h" name="btnSlot5Weather" src="luq93" fileName="Components/WeatherTag.xml" xy="1147,716" touchable="false" visible="false"/>
+    <component id="n11_wi9h" name="btnRace" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1400,550" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n12_wi9h" name="lbl12" xy="1240,614" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="赛马会"/>
+    <component id="n13_wi9h" name="btnRaceWeather" src="luq93" fileName="Components/WeatherTag.xml" xy="1462,456" touchable="false" visible="false"/>
+    <component id="n14_wi9h" name="btnGym" src="lh0xw" fileName="MapPoint/MapPoint.xml" pkg="msb8m4n5" xy="1760,550" pivot="0.5,0.5" anchor="true" scale="0.5,0.5"/>
+    <text id="n15_wi9h" name="lbl15" xy="1600,614" size="320,40" fontSize="26" color="#efdfbb" align="center" vAlign="middle" autoSize="none" strokeColor="#151922" text="老韩牧场"/>
+    <component id="n16_wi9h" name="btnGymWeather" src="luq93" fileName="Components/WeatherTag.xml" xy="1822,456" touchable="false" visible="false"/>
+    <graph id="n17_wi9h" name="imgCurrent" xy="0,0" pivot="0.5,0.5" anchor="true" size="191,137" visible="false" touchable="false" type="eclipse" lineSize="6" lineColor="#ffffd75e" fillColor="#00ffffff"/>
+    <text id="n18_wi9h" name="txtTitle" xy="48,988" size="700,64" fontSize="44" color="#efdfbb" align="left" vAlign="middle" autoSize="none" strokeColor="#151922" text="塔木镇"/>
+  </displayList>
+</component>
